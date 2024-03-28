@@ -56,3 +56,7 @@ app.use('/menu', menuRouter)
 //after .env file configuration we need to use Port var to below line 
 app.listen(PORT, ()=>{console.log('server is running on port 3000')})
 
+
+// shifted nodejs server also online at Render: Cloud Application Hosting for Developers
+// we can access online node server from anywhere with this link : 'https://node-practice-mybl.onrender.com/person'
+
